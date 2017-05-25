@@ -1,5 +1,7 @@
 ![Flarum](http://flarum.org/img/logo.png)
 
+备注：这将是一个改版后的论坛
+
 **[Flarum](http://flarum.org) 是一个免费的开源的论坛软件** 诞生于 PHP 和 [Mithril.js](http://mithril.js.org). 她是一个:
 
 * **简单**, 她拥有响应的用户界面，惊叹触摸设备使用体验
